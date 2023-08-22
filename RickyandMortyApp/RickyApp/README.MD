@@ -7,5 +7,5 @@ Project RickApp, its a simple project to understand more about CollectionView, u
 
 
 <span>
-!<img width="328" alt="Screenshot 2023-08-16 at 8 53 53 PM" src="https://github.com/lucasnsp/SoloProjects/assets/122572631/07df7b3b-bc66-4ce1-90bf-7a8332fd662c
+!<img width="328" alt="Screenshot 2023-08-16 at 8 53 53 PM" src="https://github.com/lucasnsp/SoloProjects/assets/122572631/07df7b3b-bc66-4ce1-90bf-7a8332fd662c">
 </span>
