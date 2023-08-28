@@ -1,5 +1,7 @@
 Projeto finalizado, utilizando Firebase para autenticação de Login e Registro.
 
+ViewCode, MVVM, Firebase, CollectionView
+
 <span>
 !<img width="328" alt="Screenshot 2023-08-16 at 8 53 53 PM" src="https://github.com/lucasnsp/SoloProjects/assets/122572631/6075976a-5a41-4a87-a951-0172e0600ddf">
 </span>
