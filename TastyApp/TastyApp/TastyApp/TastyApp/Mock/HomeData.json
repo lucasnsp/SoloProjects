@@ -1,0 +1,28 @@
+{
+    "foods": [
+        {
+            "foodImage": "arroz_frito_com_carne_de_porco",
+            "foodName": "Arroz Frito com Carne de Porco",
+            "foodDescription": "Delicioso prato de Arroz frito com carne de porco.",
+            "foodPrice": "R$ 38,90"
+        },
+        {
+            "foodImage": "caril_de_frango",
+            "foodName": "Caril de Frango",
+            "foodDescription": "Delicioso prato de Caril de Frango, especialidade da casa!",
+            "foodPrice": "R$ 42,90"
+        },
+        {
+            "foodImage": "macarrao_com_abobora",
+            "foodName": "Macarrão com Abóbora",
+            "foodDescription": "Delicioso prato de Macarrão com abóbora, um sabor inigualável.",
+            "foodPrice": "R$ 39,90"
+        },
+        {
+            "foodImage": "salada_salsicha_de_porco_vietnamita",
+            "foodName": "Salada Vietnamita",
+            "foodDescription": "Delicioso prato da culinária Vietnamita, não há como não experimentar.",
+            "foodPrice": "R$ 49,90"
+        }
+    ]
+}

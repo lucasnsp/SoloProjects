@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>468386905364-ms1m6mbcid8sjoke1du86rnb591iapvi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.468386905364-ms1m6mbcid8sjoke1du86rnb591iapvi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZbZxcpVo5rHUBfegacrNTCaG5cbngMt0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>468386905364</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lucas.TastyApp</string>
+	<key>PROJECT_ID</key>
+	<string>tastyapp-2a2f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tastyapp-2a2f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:468386905364:ios:e307d77618d25b54de1601</string>
+</dict>
+</plist>
