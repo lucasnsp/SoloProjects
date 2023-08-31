@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2FAD9C09-9E41-4DDE-88E9-D8F808FA1067"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE1E785F-E046-4798-A164-AF08E57AF189"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TastyApp/Service/HomeService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getHomeData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE1E785F-E046-4798-A164-AF08E57AF189 - b9232cf62868f40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;TastyApp.HomeData, Alamofire.AFError&gt;) -&gt; () in TastyApp.HomeService.getHomeData(completion: (Swift.Optional&lt;TastyApp.HomeData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TastyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasnsp/Documents/TastyApp/TastyApp/TastyApp/Service/HomeService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "BE1E785F-E046-4798-A164-AF08E57AF189 - 81b3ea50d41ab1c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TastyApp.HomeService.getHomeData(completion: (Swift.Optional&lt;TastyApp.HomeData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TastyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasnsp/Documents/TastyApp/TastyApp/TastyApp/Service/HomeService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
