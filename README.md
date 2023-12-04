@@ -1,2 +1,2 @@
 # SoloProjetcs
-Repository designed for Solo Projects
+Repository designed for Solo Projects.
